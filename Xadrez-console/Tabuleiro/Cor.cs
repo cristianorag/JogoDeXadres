@@ -4,7 +4,7 @@
         Azul,
         Verde,
         Amarelo,
-        Preto
+        Preta
 
     }
 }
